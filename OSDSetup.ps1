@@ -10,7 +10,7 @@ New-OSDCloudWorkspace -WorkspacePath C:\OSDCloud
  
 New-OSDCloudUSB
  
-Edit-OSDCloudwinPE -workspacepath C:\OSDCloud -CloudDriver * -WebPSScript https://gist.githubusercontent.com/Jeffhunter88/ed338a1c3aab4ca6abd2dd68a329d53c/raw/osdcloud_config.ps1 -Verbose
+Edit-OSDCloudwinPE -workspacepath C:\OSDCloud -CloudDriver * -WebPSScript https://gist.githubusercontent.com/shensger/ce75601a9abd038d4bf2933b8bacd254/raw/48d693de10b8d28e348f338633ade01fd8de1044/Win11Ninja.ps1 -Verbose
  
 New-OSDCloudISO
  
